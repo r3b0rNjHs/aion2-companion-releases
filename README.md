@@ -27,7 +27,7 @@ The installer (`Aion2Companion-Setup-….exe`) and the portable ZIP are under **
 | --- | --- |
 | **Pets** | Every pet you haven't maxed, with its portrait, your souls, the mob that drops it, the zone, the nearest kisk and a map of its spawns. A popup on every soul tells you how many are left, and "Near you" shows which of your soul mobs are in view. |
 | **Soul plan** | The zones where the most of your unfinished pets drop souls, best first: one trip moves several of them along. Enter your level and mobs still too strong for you are left out. |
-| **Map** | Verteron, Altgard and the Reshantas as whole maps you drag and zoom: every spawn of the mobs you still need, by genus, the kisks and field bosses, and you, where the game says you are. |
+| **Map** | The first thing in Pets: Verteron, Altgard and the Reshantas as whole maps you drag and zoom, centred on you. Every spawn of the mobs you still need, by genus, the kisks with their teleport number, the field bosses and you, where the game says you are; beside it, the pets of what's in view. |
 | **Progress** | Your souls today, this week and this month, souls per day for the last two weeks, and the latest pets to level up. |
 | **Black Cloud Merchant** | Open Pets or Special at the merchant and the app shows what's for sale against your collection: what you still need comes first, with its discount. |
 | **Field bosses and events** | Timers for your server, read from your own world map and from NotMeter, plus the game's events (Shugo Festival, Spacetime Rift, Dimensional Invasion, the siege, resets). Ring a bell and get a popup and a sound before it starts. |
@@ -39,7 +39,7 @@ Works on the **Global servers (EU/NA)**.
 
 <table>
 <tr>
-<td colspan="2"><img src="img/en/map.jpg" alt="Map"><br><b>Map</b>: the spawns you still need, kisks, field bosses and you.</td>
+<td colspan="2"><img src="img/en/map.jpg" alt="Map"><br><b>Map</b>: the spawns you still need, numbered kisks, field bosses and you, with the pets in view beside it.</td>
 </tr>
 <tr>
 <td width="50%"><img src="img/en/plan.jpg" alt="Soul plan"><br><b>Soul plan</b>: where to go to move the most pets along, at your level.</td>

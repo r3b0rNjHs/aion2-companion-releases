@@ -27,7 +27,7 @@ El instalador (`Aion2Companion-Setup-….exe`) y el ZIP portable están en **Ass
 | --- | --- |
 | **Mascotas** | Cada mascota que no tienes al máximo, con su retrato, tus almas, el mob que la suelta, la zona, el kisk más cercano y un mapa de sus apariciones. Un aviso en cada alma te dice cuántas faltan, y «Cerca de ti» te enseña qué mobs de tus almas tienes a la vista. |
 | **Plan de almas** | Las zonas donde más mascotas tuyas sin terminar sueltan almas, de mejor a peor: en un solo viaje avanzas varias. Pon tu nivel y deja fuera los mobs que aún te quedan grandes. |
-| **Mapa** | Verteron, Altgard y las Reshantas como mapas enteros que arrastras y amplías: todas las apariciones de los mobs que te faltan, por género, los kisks y los field bosses, y tú, donde el juego dice que estás. |
+| **Mapa** | Lo primero de Mascotas: Verteron, Altgard y las Reshantas como mapas enteros que arrastras y amplías, centrados en ti. Todas las apariciones de los mobs que te faltan, por género, los kisks con su número de TP, los field bosses y tú, donde el juego dice que estás; a un lado, las mascotas de lo que tienes a la vista. |
 | **Progreso** | Tus almas de hoy, de la semana y del mes, las almas por día de las dos últimas semanas y las últimas mascotas que han subido de nivel. |
 | **Mercader de la Nube Negra** | Abre Pets o Special en el mercader y la app te enseña lo que vende frente a tu colección: lo que te falta sale primero, con su descuento. |
 | **Field bosses y eventos** | Timers de tu servidor, leídos de tu propio mapa del mundo y de NotMeter, y los eventos del juego (Festival Shugo, Grieta espaciotemporal, Invasión dimensional, asedio, reinicios). Pulsa la campana y te avisa con un aviso y un sonido antes de que empiece. |
@@ -39,7 +39,7 @@ Funciona en los **servidores Global (EU/NA)**.
 
 <table>
 <tr>
-<td colspan="2"><img src="img/es/map.jpg" alt="Mapa"><br><b>Mapa</b>: las apariciones que te faltan, los kisks, los field bosses y tú.</td>
+<td colspan="2"><img src="img/es/map.jpg" alt="Mapa"><br><b>Mapa</b>: las apariciones que te faltan, los kisks con su número, los field bosses y tú, con las mascotas a la vista al lado.</td>
 </tr>
 <tr>
 <td width="50%"><img src="img/es/plan.jpg" alt="Plan de almas"><br><b>Plan de almas</b>: adónde ir para avanzar más mascotas a la vez, a tu nivel.</td>
