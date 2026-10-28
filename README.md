@@ -17,7 +17,7 @@ The installer (`Aion2Companion-Setup-….exe`) and the portable ZIP are under **
 [All releases](https://github.com/r3b0rNjHs/aion2-companion-releases/releases) ·
 **English** · [Español](README.es.md)
 
-<img src="img/en/pets.jpg" width="900" alt="The Pets page: every pet still short of level 3, with its souls, where to farm it and the spawn map">
+<img src="img/en/map.jpg" width="900" alt="The pet map: every spawn of the souls you still need, the kisks with their teleport number, the field bosses and you">
 
 </div>
 
@@ -25,9 +25,9 @@ The installer (`Aion2Companion-Setup-….exe`) and the portable ZIP are under **
 
 | | |
 | --- | --- |
-| **Pets** | Every pet you haven't maxed, with its portrait, your souls, the mob that drops it, the zone, the nearest kisk and a map of its spawns. A popup on every soul tells you how many are left, and "Near you" shows which of your soul mobs are in view. |
+| **Pet map** | The first thing you see: Verteron, Altgard and the Reshantas as whole maps you drag and zoom, centred on you. Every spawn of the mobs you still need, by genus, the kisks with their teleport number, the field bosses and you, where the game says you are; beside it, the pets of what's in view. |
+| **Pet list** | Every pet you haven't maxed, with its portrait, your souls, the mob that drops it, the zone, the nearest kisk and a map of its spawns. A popup on every soul tells you how many are left, and "Near you" shows which of your soul mobs are in view. |
 | **Soul plan** | The zones where the most of your unfinished pets drop souls, best first: one trip moves several of them along. Enter your level and mobs still too strong for you are left out. |
-| **Map** | The first thing in Pets: Verteron, Altgard and the Reshantas as whole maps you drag and zoom, centred on you. Every spawn of the mobs you still need, by genus, the kisks with their teleport number, the field bosses and you, where the game says you are; beside it, the pets of what's in view. |
 | **Progress** | Your souls today, this week and this month, souls per day for the last two weeks, and the latest pets to level up. |
 | **Black Cloud Merchant** | Open Pets or Special at the merchant and the app shows what's for sale against your collection: what you still need comes first, with its discount. |
 | **Field bosses and events** | Timers for your server, read from your own world map and from NotMeter, plus the game's events (Shugo Festival, Spacetime Rift, Dimensional Invasion, the siege, resets). Ring a bell and get a popup and a sound before it starts. |
@@ -39,7 +39,7 @@ Works on the **Global servers (EU/NA)**.
 
 <table>
 <tr>
-<td colspan="2"><img src="img/en/map.jpg" alt="Map"><br><b>Map</b>: the spawns you still need, numbered kisks, field bosses and you, with the pets in view beside it.</td>
+<td colspan="2"><img src="img/en/pets.jpg" alt="Pet list"><br><b>Pet list</b>: every pet you haven't maxed, grouped by map, with where to farm it and the nearest kisk.</td>
 </tr>
 <tr>
 <td width="50%"><img src="img/en/plan.jpg" alt="Soul plan"><br><b>Soul plan</b>: where to go to move the most pets along, at your level.</td>
