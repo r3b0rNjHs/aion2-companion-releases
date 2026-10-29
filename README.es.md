@@ -33,6 +33,7 @@ El instalador (`Aion2Companion-Setup-….exe`) y el ZIP portable están en **Ass
 | **Field bosses y eventos** | Timers de tu servidor, leídos de tu propio mapa del mundo y de NotMeter, y los eventos del juego (Festival Shugo, Grieta espaciotemporal, Invasión dimensional, asedio, reinicios). Pulsa la campana y te avisa con un aviso y un sonido antes de que empiece. |
 | **Tareas** | Tu Energía Odyle, tus llaves y la Pesadilla con cuándo se llenan, las entradas semanales que te quedan y tu tiempo en el Abismo, como las cuenta el juego, por personaje. |
 | **Medidor de DPS** | Daño en directo por jugador y por habilidad, con el emblema de cada clase, para ti y tu grupo. Cada pelea contra un boss se guarda en un historial, con tu récord contra cada boss. Copia el resumen de una pelea para el chat del grupo o Discord. También en una ventana flotante pequeña sobre el juego. |
+| **Builds** | Pega el enlace de una guía del Character Builder de questlog.gg y la app trae todas sus builds: equipo, habilidades en su ranura, macros, prioridad de habilidades y cómo se juega. Elige una como tu build para tu clase. |
 | **Y más** | Kinas por hora, cristales de género contados, aviso de invitación a grupo, abrir con Windows. En castellano e inglés (Ajustes → Idioma). |
 
 Funciona en los **servidores Global (EU/NA)**.
@@ -150,7 +151,7 @@ todo lo que usa.
 - Decodificación de paquetes basada en [elkaida/AION2-pet-tracker](https://github.com/elkaida/AION2-pet-tracker).
 - La lectura de combate, los nombres de NPC y habilidades y los emblemas de clase: portados de [A2Tools DPS Meter](https://github.com/taengu/A2Tools-DPS-Meter) (GPL-3.0).
 - Mascotas, mapas de apariciones y retratos: [MetaBot.GG](https://metabot.gg/en/aion-2/mounts). Horas de field bosses: [NotMeter](https://github.com/Not4You-Dev/NotMeter-Cache).
-- IDs de objetos del mercader: [Questlog.gg](https://questlog.gg/aion-2).
+- IDs de objetos del mercader y las builds que importas: [Questlog.gg](https://questlog.gg/aion-2).
 
 ---
 

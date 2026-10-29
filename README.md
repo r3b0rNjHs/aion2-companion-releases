@@ -33,6 +33,7 @@ The installer (`Aion2Companion-Setup-….exe`) and the portable ZIP are under **
 | **Field bosses and events** | Timers for your server, read from your own world map and from NotMeter, plus the game's events (Shugo Festival, Spacetime Rift, Dimensional Invasion, the siege, resets). Ring a bell and get a popup and a sound before it starts. |
 | **Tasks** | Your Odyle Energy, keys and Nightmare with when they're full, the week's entries left and your Abyss time, as the game counts them, per character. |
 | **DPS meter** | Live damage per player and per skill, with class emblems, for you and your party. Every boss fight is kept in a history, with your record against each boss. Copy a fight's summary for the party chat or Discord. Also in a small floating window over the game. |
+| **Builds** | Paste a link to a guide from questlog.gg's Character Builder and the app brings in all its builds: gear, skills in their slots, macros, skill priority and how to play it. Pick one as your build for your class. |
 | **And more** | Kina per hour, genus crystals counted, party invitation alerts, opening with Windows. English and Spanish (Settings → Language). |
 
 Works on the **Global servers (EU/NA)**.
@@ -150,7 +151,7 @@ licenses of everything it uses.
 - Packet decoding based on [elkaida/AION2-pet-tracker](https://github.com/elkaida/AION2-pet-tracker).
 - The combat reader, NPC and skill names and class emblems: ported from [A2Tools DPS Meter](https://github.com/taengu/A2Tools-DPS-Meter) (GPL-3.0).
 - Pets, spawn maps and portraits: [MetaBot.GG](https://metabot.gg/en/aion-2/mounts). Field boss times: [NotMeter](https://github.com/Not4You-Dev/NotMeter-Cache).
-- Merchant item IDs: [Questlog.gg](https://questlog.gg/aion-2).
+- Merchant item IDs, and the builds you import: [Questlog.gg](https://questlog.gg/aion-2).
 
 ---
 
