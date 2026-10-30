@@ -32,7 +32,7 @@ El instalador (`Aion2Companion-Setup-….exe`) y el ZIP portable están en **Ass
 | **Mercader de la Nube Negra** | Abre Pets o Special en el mercader y la app te enseña lo que vende frente a tu colección: lo que te falta sale primero, con su descuento. |
 | **Field bosses y eventos** | Timers de tu servidor, leídos de tu propio mapa del mundo y de NotMeter, y los eventos del juego (Festival Shugo, Grieta espaciotemporal, Invasión dimensional, asedio, reinicios). Pulsa la campana y te avisa con un aviso y un sonido antes de que empiece. |
 | **Tareas** | Tu Energía Odyle, tus llaves y la Pesadilla con cuándo se llenan, las entradas semanales que te quedan y tu tiempo en el Abismo, como las cuenta el juego, por personaje. |
-| **Medidor de DPS** | Daño en directo por jugador y por habilidad, con el emblema de cada clase, para ti y tu grupo. Cada pelea contra un boss se guarda en un historial, con tu récord contra cada boss. Copia el resumen de una pelea para el chat del grupo o Discord. También en una ventana flotante pequeña sobre el juego. |
+| **Medidor de DPS** | Daño en directo por jugador y por habilidad, con el emblema de cada clase, para ti y tu grupo. Cada pelea contra un boss se guarda en un historial, con tu récord contra cada boss. Copia el resumen de una pelea para el chat del grupo o Discord. El **control de rotación** compara una pelea con los jugadores de [NotMeter](https://notmeter.com/) de tu clase y tu poder de combate contra ese boss, habilidad por habilidad. También en una ventana flotante pequeña sobre el juego. |
 | **Builds** | Pega el enlace de una guía del Character Builder de questlog.gg y la app trae todas sus builds: equipo, habilidades en su ranura, macros, prioridad de habilidades y cómo se juega. Elige una como tu build para tu clase. |
 | **Y más** | Kinas por hora, cristales de género contados, aviso de invitación a grupo, abrir con Windows. En castellano e inglés (Ajustes → Idioma). |
 
@@ -116,7 +116,8 @@ juego, ni sus archivos ni su memoria, y no le envía nada.
 Se conecta a:
 
 - **GitHub** (este repositorio): para buscar actualizaciones, al abrirse y cada hora. Las actualizaciones se comprueban con su SHA-256 antes de instalarse.
-- **NotMeter** (`raw.githubusercontent.com`): las horas de los field bosses de tu servidor, cada 2 minutos con la app abierta.
+- **NotMeter** (`raw.githubusercontent.com`): las horas de los field bosses de tu servidor, cada 2 minutos con la app abierta; y sus clasificaciones cuando pulsas Control de rotación en un combate.
+- **questlog.gg**: las builds de una guía, con sus nombres e iconos, solo cuando importas su enlace en Builds.
 - **MetaBot.GG**: las piezas del mapa de apariciones de una mascota, la primera vez que lo abres (luego se guardan en tu PC).
 
 Nada más: sin cuentas, sin anuncios, sin analíticas. Las páginas de la app no pueden salir a internet (su
@@ -150,7 +151,7 @@ todo lo que usa.
 - El overlay de mascotas del que partió: [Aion 2 Pet Overlay](https://github.com/MartinLVila/aion2-pet-overlay), de **mytzuo** ([apóyale en PayPal](https://paypal.me/mytzuo)).
 - Decodificación de paquetes basada en [elkaida/AION2-pet-tracker](https://github.com/elkaida/AION2-pet-tracker).
 - La lectura de combate, los nombres de NPC y habilidades y los emblemas de clase: portados de [A2Tools DPS Meter](https://github.com/taengu/A2Tools-DPS-Meter) (GPL-3.0).
-- Mascotas, mapas de apariciones y retratos: [MetaBot.GG](https://metabot.gg/en/aion-2/mounts). Horas de field bosses: [NotMeter](https://github.com/Not4You-Dev/NotMeter-Cache).
+- Mascotas, mapas de apariciones y retratos: [MetaBot.GG](https://metabot.gg/en/aion-2/mounts). Horas de field bosses y clasificaciones del control de rotación: [NotMeter](https://notmeter.com/) ([caché](https://github.com/Not4You-Dev/NotMeter-Cache), [clasificaciones](https://github.com/Not4You-Dev/NotMeter-Global-Ranking-Cache)). Todos los derechos de uso de los datos de NotMeter pertenecen a NotMeter; recomendamos usar [su web oficial](https://notmeter.com/). Aion 2 Companion es gratuita y sin ánimo de lucro.
 - IDs de objetos del mercader y las builds que importas: [Questlog.gg](https://questlog.gg/aion-2).
 
 ---

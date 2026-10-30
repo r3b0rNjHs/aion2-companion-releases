@@ -32,7 +32,7 @@ The installer (`Aion2Companion-Setup-….exe`) and the portable ZIP are under **
 | **Black Cloud Merchant** | Open Pets or Special at the merchant and the app shows what's for sale against your collection: what you still need comes first, with its discount. |
 | **Field bosses and events** | Timers for your server, read from your own world map and from NotMeter, plus the game's events (Shugo Festival, Spacetime Rift, Dimensional Invasion, the siege, resets). Ring a bell and get a popup and a sound before it starts. |
 | **Tasks** | Your Odyle Energy, keys and Nightmare with when they're full, the week's entries left and your Abyss time, as the game counts them, per character. |
-| **DPS meter** | Live damage per player and per skill, with class emblems, for you and your party. Every boss fight is kept in a history, with your record against each boss. Copy a fight's summary for the party chat or Discord. Also in a small floating window over the game. |
+| **DPS meter** | Live damage per player and per skill, with class emblems, for you and your party. Every boss fight is kept in a history, with your record against each boss. Copy a fight's summary for the party chat or Discord. The **rotation check** puts a fight next to [NotMeter](https://notmeter.com/)'s players of your class and combat power on that boss, skill by skill. Also in a small floating window over the game. |
 | **Builds** | Paste a link to a guide from questlog.gg's Character Builder and the app brings in all its builds: gear, skills in their slots, macros, skill priority and how to play it. Pick one as your build for your class. |
 | **And more** | Kina per hour, genus crystals counted, party invitation alerts, opening with Windows. English and Spanish (Settings → Language). |
 
@@ -116,7 +116,8 @@ touch the game, its files or its memory, and it doesn't send anything to the gam
 It connects to:
 
 - **GitHub** (this repository): to look for updates, when it opens and every hour. Updates are checked against their SHA-256 before they're installed.
-- **NotMeter** (`raw.githubusercontent.com`): field boss times for your server, every 2 minutes while the app is open.
+- **NotMeter** (`raw.githubusercontent.com`): field boss times for your server, every 2 minutes while the app is open; and its rankings when you press Rotation check on a fight.
+- **questlog.gg**: a guide's builds, names and icons, only when you import its link in Builds.
 - **MetaBot.GG**: the map tiles of a pet's spawn map, the first time you open it (then they're kept on your PC).
 
 Nothing else: no accounts, no ads, no analytics. The app's pages can't reach the internet at all (their
@@ -150,7 +151,7 @@ licenses of everything it uses.
 - The pet overlay it started from: [Aion 2 Pet Overlay](https://github.com/MartinLVila/aion2-pet-overlay), by **mytzuo** ([support them on PayPal](https://paypal.me/mytzuo)).
 - Packet decoding based on [elkaida/AION2-pet-tracker](https://github.com/elkaida/AION2-pet-tracker).
 - The combat reader, NPC and skill names and class emblems: ported from [A2Tools DPS Meter](https://github.com/taengu/A2Tools-DPS-Meter) (GPL-3.0).
-- Pets, spawn maps and portraits: [MetaBot.GG](https://metabot.gg/en/aion-2/mounts). Field boss times: [NotMeter](https://github.com/Not4You-Dev/NotMeter-Cache).
+- Pets, spawn maps and portraits: [MetaBot.GG](https://metabot.gg/en/aion-2/mounts). Field boss times and the rotation check's rankings: [NotMeter](https://notmeter.com/) ([cache](https://github.com/Not4You-Dev/NotMeter-Cache), [rankings](https://github.com/Not4You-Dev/NotMeter-Global-Ranking-Cache)). All rights to NotMeter's data belong to NotMeter; we recommend using [their official site](https://notmeter.com/). Aion 2 Companion is free and non-profit.
 - Merchant item IDs, and the builds you import: [Questlog.gg](https://questlog.gg/aion-2).
 
 ---
