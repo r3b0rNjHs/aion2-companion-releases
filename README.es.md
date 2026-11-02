@@ -33,6 +33,7 @@ El instalador (`Aion2Companion-Setup-….exe`) y el ZIP portable están en **Ass
 | **Field bosses y eventos** | Timers de tu servidor, leídos de tu propio mapa del mundo y de NotMeter, y los eventos del juego (Festival Shugo, Grieta espaciotemporal, Invasión dimensional, asedio, reinicios). Pulsa la campana y te avisa con un aviso y un sonido antes de que empiece. |
 | **Tareas** | Tu Energía Odyle, tus llaves y la Pesadilla con cuándo se llenan, las entradas semanales que te quedan y tu tiempo en el Abismo, como las cuenta el juego, por personaje. |
 | **Medidor de DPS** | Daño en directo por jugador y por habilidad, con el emblema de cada clase, para ti y tu grupo. Cada pelea contra un boss se guarda en un historial, con tu récord contra cada boss. Copia el resumen de una pelea para el chat del grupo o Discord. El **control de rotación** compara una pelea con los jugadores de [NotMeter](https://notmeter.com/) de tu clase y tu poder de combate contra ese boss, habilidad por habilidad. También en una ventana flotante pequeña sobre el juego. |
+| **Cubos ocultos** | Cuando un cubo oculto entra en tu alcance, un aviso te dice a cuántos metros está y hacia dónde ir, si te acercas y si está más arriba o abajo, hasta que alguien lo abre. Opcional: marca tu minimapa y el aviso lo muestra con el cubo encima, con la flecha según tu cámara. Cada cubo queda en el mapa de Mascotas. |
 | **Builds** | Pega el enlace de una guía del Character Builder de questlog.gg y la app trae todas sus builds: equipo, habilidades en su ranura, macros, prioridad de habilidades y cómo se juega. Elige una como tu build para tu clase. |
 | **Y más** | Kinas por hora, cristales de género contados, aviso de invitación a grupo, abrir con Windows. En castellano e inglés (Ajustes → Idioma). |
 
@@ -113,18 +114,29 @@ conservarlos.
 Lee los datos que el juego ya envía a tu PC, igual que los medidores de DPS, a través de Npcap. No toca el
 juego, ni sus archivos ni su memoria, y no le envía nada.
 
+Si marcas el minimapa del juego (Cubos ocultos, opcional), la app hace capturas solo de ese recuadro de tu
+pantalla, como un programa de grabación, para leer hacia dónde mira tu cámara y dónde estás. No las guarda ni las envía.
+
 Se conecta a:
 
 - **GitHub** (este repositorio): para buscar actualizaciones, al abrirse y cada hora. Las actualizaciones se comprueban con su SHA-256 antes de instalarse.
 - **NotMeter** (`raw.githubusercontent.com`): las horas de los field bosses de tu servidor, cada 2 minutos con la app abierta; y sus clasificaciones cuando pulsas Control de rotación en un combate.
 - **questlog.gg**: las builds de una guía, con sus nombres e iconos, solo cuando importas su enlace en Builds.
-- **MetaBot.GG**: las piezas del mapa de apariciones de una mascota, la primera vez que lo abres (luego se guardan en tu PC).
+- **MetaBot.GG**: las piezas de los mapas (el de una mascota, el mapa del mundo y, con el minimapa marcado, las de alrededor de ti), la primera vez que hacen falta (luego se guardan en tu PC).
 
 Nada más: sin cuentas, sin anuncios, sin analíticas. Las páginas de la app no pueden salir a internet (su
 navegador está limitado a los archivos de la propia app), y todo lo que ves, imágenes incluidas, viene con ella.
 
 Aun así, NCSOFT no la ha aprobado y sus normas prohíben programas de terceros no autorizados.
 **Úsala bajo tu responsabilidad.**
+
+## Aviso
+
+Aion 2 Companion es un proyecto de fans, gratuito y sin ánimo de lucro, sin relación con NCSOFT ni con Aion 2.
+Se ofrece tal cual, sin ninguna garantía. **La usas bajo tu propia responsabilidad**: sus autores no se hacen
+responsables del uso que se haga de ella ni de sus consecuencias, incluidas sanciones, suspensiones o
+cierres de cuenta. Las normas del juego pueden cambiar en cualquier momento y el uso de herramientas de
+terceros puede ir en contra de ellas; revísalas antes de usarla.
 
 ## ¿Algo va mal?
 
